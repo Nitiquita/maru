@@ -1,0 +1,33 @@
+/*------------------------------------------------*/
+/*BASIC SETUP*/
+/*------------------------------------------------*/
+
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Amatic SC', cursive;
+}
+
+/*------------------------------------------------*/
+/*NAVIGATION*/
+/*------------------------------------------------*/
+
+nav {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+/*------------------------------------------------*/
+/*HOME*/
+/*------------------------------------------------*/
+
+#home-image {
+	display: flex;
+	justify-content: center;
+}
+
+#title {
+	text-align: center;
+	
+}
