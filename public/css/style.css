@@ -22,9 +22,14 @@ nav {
 /*HOME*/
 /*------------------------------------------------*/
 
-#home-image {
+#home-image-box {
 	display: flex;
 	justify-content: center;
+}
+
+#home-image {
+	height: 430px;
+	width: 800px;
 }
 
 #title {

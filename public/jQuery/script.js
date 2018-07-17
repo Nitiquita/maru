@@ -1,6 +1,6 @@
 $(document).ready(function() {
   var body = $('body');
-  var maruImages = ['/img/maru.jpg', '/img/maru-in-box2.jpg'];
+  var maruImages = ['/img/maru.jpg', '/img/maru-in-box2.jpg', '/img/maru5.jpg'];
 var current = 0;
 
 function nextBackground() {
