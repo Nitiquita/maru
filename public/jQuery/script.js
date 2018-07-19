@@ -14,3 +14,4 @@ function nextBackground() {
  setTimeout(nextBackground, 5000);
    $('img').attr('src', maruImages[0]);
 })
+
